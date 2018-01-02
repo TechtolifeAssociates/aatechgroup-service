@@ -1,0 +1,16 @@
+{
+    "smtp": {
+        "username": "",
+        "password": "",
+        "host":"",
+        "service":""
+    },
+    "mysqldb": {
+        "username": "",
+        "password": "",
+        "host": "",
+        "port": "",
+        "database": "",
+        "poollimit": ""
+    }
+}
